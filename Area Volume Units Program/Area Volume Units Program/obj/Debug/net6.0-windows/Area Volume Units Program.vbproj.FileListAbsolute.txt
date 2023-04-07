@@ -1,0 +1,17 @@
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\bin\Debug\net6.0-windows\Area Volume Units Program.exe
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\bin\Debug\net6.0-windows\Area Volume Units Program.deps.json
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\bin\Debug\net6.0-windows\Area Volume Units Program.runtimeconfig.json
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\bin\Debug\net6.0-windows\Area Volume Units Program.dll
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\bin\Debug\net6.0-windows\Area Volume Units Program.pdb
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\obj\Debug\net6.0-windows\Area Volume Units Program.vbproj.AssemblyReference.cache
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\obj\Debug\net6.0-windows\Area_Volume_Units_Program.Form1.resources
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\obj\Debug\net6.0-windows\Area Volume Units Program.vbproj.GenerateResource.cache
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\obj\Debug\net6.0-windows\Area Volume Units Program.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\obj\Debug\net6.0-windows\Area Volume Units Program.AssemblyInfoInputs.cache
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\obj\Debug\net6.0-windows\Area Volume Units Program.AssemblyInfo.vb
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\obj\Debug\net6.0-windows\Area Volume Units Program.vbproj.CoreCompileInputs.cache
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\obj\Debug\net6.0-windows\Area Volume Units Program.dll
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\obj\Debug\net6.0-windows\refint\Area Volume Units Program.dll
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\obj\Debug\net6.0-windows\Area Volume Units Program.pdb
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\obj\Debug\net6.0-windows\Area Volume Units Program.genruntimeconfig.cache
+F:\GitHub Projects\area-volume-program\Area Volume Units Program\Area Volume Units Program\obj\Debug\net6.0-windows\ref\Area Volume Units Program.dll
